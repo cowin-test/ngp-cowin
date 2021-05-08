@@ -5858,7 +5858,7 @@
              {
                 "session_id":"c2183107-9ec7-4fcf-858c-41dc91b8de20",
                 "date":"09-05-2021",
-                "available_capacity":0,
+                "available_capacity":4,
                 "min_age_limit":18,
                 "vaccine":"COVAXIN",
                 "slots":[
